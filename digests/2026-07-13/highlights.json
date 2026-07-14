@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex v0.144.2 修复 Bug 回滚",
+      "Gemini CLI v0.52.0-nightly 修复隐私问题",
+      "Qwen Code desktop-v0.0.5 架构更新",
+      "OpenAI Codex 与 Gemini 活跃度超 10 条",
+      "工具生态向复杂智能体编排转型",
+      "多款工具争相接入 GPT-5.6 与 Opus 4.8"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.1-beta.6 版本",
+      "引入 ClawRouter、Mythos 5 等新模型",
+      "PR 合并率高达 41%，社区极其活跃",
+      "修复 Subagent 生命周期与会话恢复 Bug",
+      "新增 Android 平台支持与 Web UI 技能管理",
+      "GPT-5.6 设为默认模型，优化 Sol/Terra 配置"
+    ],
+    "ai-trending": [
+      "Rust Agent 安全工具获 444 星增长",
+      "个人交易 Agent Vibe-Trading 星增 768",
+      "DesktopCommanderMCP MCP 服务器获 210 星",
+      "Rust 在高性能 LLM 推理中占主导地位",
+      "边缘计算（离线生存）AI 成为新增长点",
+      "工作流编排框架 prefect 在数据管道中流行"
+    ],
+    "ai-hn": [
+      "Claude Code 发送 33k tokens 被批资源浪费",
+      "Grok 4.5 与 GPT5.6 在安全审计胜出",
+      "苹果起诉 OpenAI 侵权，巨头竞争白热化",
+      "Anthropic 安全主管离职引发行业关注",
+      "HN 讨论聚焦 AI 成本优化与模型能力比拼",
+      "Anthropic 发现 Claude 概念表征的隐藏机制"
+    ],
+    "ai-hf": [
+      "Qwen3.6-MTP-GGUF 下载量超 290 万次",
+      "百度 Unlimited-OCR 模型下载量超 140 万",
+      "Qwen 系列与 MoE 架构成为绝对核心",
+      "Nvidia LocateAnything-3B 精确视觉定位",
+      "视频生成与多模态理解模型热度上升",
+      "量化版本（GGUF）持续占据下载榜前列"
+    ],
+    "ai-community": [
+      "AI 代理可靠性问题（如记忆门控）受关注",
+      "MCP 协议在整合开发工具方面应用广泛",
+      "开发者关注 CI/CD 中利用 AI 过滤误报",
+      "OpenAI 与苹果的法律战引发热议",
+      "智能合约审计工具 Egregor 本地多 AI 联合",
+      "行业探讨 AI 带来的能源消耗与隐私风险"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex v0.144.2 released today",
+      "Gemini CLI v0.52.0-nightly released today",
+      "Qwen Code desktop-v0.0.5 released today",
+      "Claude Code sends 33k tokens vs OpenCode 7k",
+      "New DeepSeek TUI tool for terminal interaction",
+      "GitHub Copilot CLI released with major updates"
+    ],
+    "ai-agents": [
+      "IronClaw and ZeroClaw focus on enterprise stability",
+      "CoPaw Runtime 2.0 hardens execution environments",
+      "Security and governance are central to roadmaps",
+      "LobsterAI prioritizes desktop polish and governance",
+      "Agents are moving from experiment to production",
+      "Token ceiling enforcement and memory sanitization"
+    ],
+    "ai-trending": [
+      "MCP adoption surges in AI ecosystem",
+      "Rust dominates infrastructure layer",
+      "Vibe-Trading agent for quantitative trading",
+      "DATAGEN agent for scientific research",
+      "rig framework tops trending Rust projects",
+      "DesktopCommanderMCP gives Claude terminal control"
+    ],
+    "ai-hn": [
+      "Claude Code sends 33k tokens before reading prompt",
+      "OpenCode sends only 7k tokens (efficiency comparison)",
+      "\"Add flag for AI-generated articles\" thread goes viral",
+      "Apple suing OpenAI escalates legal war",
+      "Anthropic found hidden space where Claude puzzles",
+      "Community debates transparency in AI disclosure"
+    ],
+    "ai-hf": [
+      "zai-org's GLM-5.2 tops charts with 3,862 likes",
+      "NVIDIA dominates with LocateAnything-3B model",
+      "Qwen3.6 family heavily favored by community",
+      "GGUF formats trend for local low-resource use",
+      "InternScience Agents-A1 bridges text and images",
+      "Ornith-1.0-35B-GGUF has 1.3M+ downloads"
+    ],
+    "ai-community": [
+      "Apple suing OpenAI over employee poaching",
+      "Anthropic overtakes OpenAI in enterprise adoption",
+      "Developers focus on FinOps for LLM costs",
+      "Let AI clear false positives in CI/CD pipelines",
+      "Claude Desktop reads web analytics via MCP",
+      "Journalist came to interview dev after 12 AI stories"
+    ]
+  }
+}
